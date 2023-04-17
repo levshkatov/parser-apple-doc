@@ -1,4 +1,4 @@
-Parser for apple documentation. Script will parse all interfaces recursively and combine them into parsed.d.ts file.
+Parser for apple documentation. Script parses all interfaces recursively and combines them into parsed.d.ts file.
 
 **How to run:**
 
